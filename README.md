@@ -8,7 +8,7 @@ Python wordle for when you're in a pinch
 # Install
 Install the [latest version of Python.](https://www.python.org/downloads/)
 
-Go to the [latest release](https://www.github.com/kuroninninja/releases/latest/) and downlod the `.zip` or `.tar.gz` file,
+Go to the [latest release](https://www.github.com/kuroninninja/wordle-in-a-pinch/releases/latest/) and downlod the `.zip` or `.tar.gz` file,
  and place it in your preferred directory.
 
 # Usage
